@@ -10,10 +10,17 @@ The goal is to find the shortest possible route that visits each city exactly on
 
 TSP_GA/
 │
+
 ├─ .idea/ # Project configuration files (IDE settings)
+
 ├─ data/ # Input datasets (cities coordinates)
+
 ├─ README.md # Project documentation
+
 ├─ genetic.py # Genetic Algorithm implementation
+
 ├─ main.py # Script to run the TSP solver
+
 ├─ utils.py # Helper functions (distance calculation, visualization, etc.)
+
 └─ .gitignore # Git ignore rules
